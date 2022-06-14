@@ -14,4 +14,6 @@
 | Lilian Rasmussen | 4                |
 | Julian           | 3                |
 | Maxibon          | 5                |
-| Chloe ren        | 3                |
+| monet ren        | 3                |
+| marx ren         | 3                |
+| chloe ren        | 3                |
